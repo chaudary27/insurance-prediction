@@ -33,9 +33,12 @@ The notebook includes:
 - Pearson correlation for numeric features
 - Chi-square tests for categorical features
 
-## 🤖 Model Building
-- Feature selection based on statistical analysis
-- Ready for regression modeling (add your models!)
+
+## 🤖 Model Building & Evaluation (Updated Aug 17, 2025)
+- **Train-test split** for model validation
+- **Linear Regression** model training
+- **Prediction and evaluation** using R² and Adjusted R²
+- New markdown cells for improved readability and logical sectioning
 
 ## 🖼️ Example Visuals
 ![Heatmap Example](https://user-images.githubusercontent.com/674621/146650903-6c1c7b7e-2b7e-4e2a-8e2e-2e2e2e2e2e2e.png)
